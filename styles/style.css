@@ -1,0 +1,8 @@
+.banner-img{
+    position: relative;
+    background-image:url(./images/banner.png);
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-size: cover;
+    padding-top: 100px;
+}
